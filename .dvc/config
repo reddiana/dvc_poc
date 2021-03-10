@@ -2,4 +2,4 @@
     remote = myminio
 ['remote "myminio"']
     url = s3://users/red.suh/test.pjt
-    endpointurl = http://minio-service.kubeflow:9000
+    endpointurl = http://localhost:32001
