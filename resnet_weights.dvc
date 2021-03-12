@@ -1,0 +1,5 @@
+outs:
+- md5: 4e141635f35798951ebac542cb3d2fb8.dir
+  size: 94668760
+  nfiles: 1
+  path: resnet_weights
